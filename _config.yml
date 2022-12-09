@@ -105,6 +105,9 @@ defaults:
       layout: single
       author_profile: true
 
+atom-feed:
+    hide: true
+    
 category_archive:
   type: liquid
   path: /categories/
