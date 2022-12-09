@@ -1,6 +1,6 @@
 ---
 title: "Education"
 permalink: /education/
-layout: tags
+layout: splash
 author_profile: true
 ---
