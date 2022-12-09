@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     wide-ranging experience and interests.
 
 github_username: snarkypanda183
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 search: false
 
 # Build settings
@@ -64,7 +64,7 @@ author:
   bio    : "Business analyst by day, inquisitive and thoughtful at all times."
   links:
     - label: "Vimeo"
-      icon: "fas fa-fw fa-vimeo"
+      icon: "fab fa-fw fa-vimeo"
       url: "https://vimeo.com/westonlove/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
