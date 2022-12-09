@@ -20,9 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
     strong academic background, and myriad hobbies and interests.  
     Residing in Illinois and working as a Business Analyst, Weston has 
     wide-ranging experience and interests.
-twitter_username: 
+
 github_username: snarkypanda183
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
 search: false
 
 # Build settings
@@ -61,32 +61,29 @@ plugins:
 author:
   name   : "Weston Love"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Business Analyst by day, inquisitive and thoughtful at all times."
+  bio    : "Business analyst by day, inquisitive and thoughtful at all times."
   links:
-    - label: "Website"
+    - label: "Vimeo"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://vimeo.com/westonlove/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/westonlove/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo"
+      url: "https://vimeo.com/westonlove/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/snarkypanda183"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/snarkypanda183/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/westonlove/"
 
 defaults:
   # _posts
