@@ -64,13 +64,13 @@ author:
   bio    : "Business analyst by day, inquisitive and thoughtful at all times."
   links:
     - label: "Vimeo"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-vimeo"
       url: "https://vimeo.com/westonlove/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://github.com/snarkypanda183/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/westonlove/"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/snarkypanda183/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/westonlove/"
 
 defaults:
