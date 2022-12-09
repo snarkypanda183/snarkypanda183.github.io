@@ -1,6 +1,6 @@
 ---
 title: "Interests"
 permalink: /interests/
-layout: posts
+layout: splash
 author_profile: true
 ---
