@@ -1,6 +1,6 @@
 ---
 title: "Career"
-layout: categories
+layout: splash
 permalink: /career/
 author_profile: true
 ---
