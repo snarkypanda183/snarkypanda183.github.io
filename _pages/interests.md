@@ -1,15 +1,15 @@
 ---
 title: "Weston's Interests"
-permalink: /interests/
 layout: splash
+permalink: /interests/
 author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner3.jpg
-excerpt: "Weston's Interests"
+  excerpt: "Weston's Interests"
 intro: 
-  - excerpt: 'Music'
+  - excerpt: 'I have quite a few hobbies and love spending time developing them.'
 feature_row:
   - image_path: assets/images/keyboard.jpg
     alt: "placeholder image 1"
