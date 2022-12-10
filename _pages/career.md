@@ -1,5 +1,5 @@
 ---
-title: "Career"
+title: "Weston's Career"
 layout: splash
 permalink: /career/
 header:
