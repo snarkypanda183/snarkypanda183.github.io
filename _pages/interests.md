@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/keyboard.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in a song."
+    excerpt: "I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in     a song."
   - image_path: /assets/images/keyboard.jpg
     alt: "placeholder image 2"
     title "Writing"
