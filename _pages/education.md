@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner2.jpg
   excerpt: "Weston's Academic Background"
 intro: 
-  - excerpt: 'Whether philosophy, linguistics, project management, or development, my studies have been broad and prove useful everyday.'
+  - excerpt: 'Whether philosophy, linguistics, project management, or web development, my studies have been broad and prove useful everyday.'
 feature_row:
   - image_path: /assets/images/isug.jpg
     alt: "Image of Illinois State University campus"

@@ -1,9 +1,8 @@
 ---
-title: "Interests"
+title: "Weston's Interests"
 permalink: /interests/
 layout: splash
 author_profile: true
----
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
