@@ -75,6 +75,12 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/westonlove/"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZWJFBSW0M0"
+    anonymize_ip: false # default
+
 footer:
   links:
     - label: "Vimeo"
