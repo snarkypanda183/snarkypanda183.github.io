@@ -2,6 +2,7 @@
 title: "Weston's Education"
 permalink: /education/
 layout: splash
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
