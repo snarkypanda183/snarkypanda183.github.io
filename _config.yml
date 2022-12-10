@@ -84,8 +84,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/westonlove/"
-    - atom-feed:
-        hide: true
+ atom-feed:
+    hide: true
 
 defaults:
   # _posts
