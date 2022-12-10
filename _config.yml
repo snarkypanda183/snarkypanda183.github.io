@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: snarkypanda183
 minimal_mistakes_skin: "air"
 search: false
-atom feed:
+atom_feed:
     hide: true
 
 # Build settings
