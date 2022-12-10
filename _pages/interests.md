@@ -11,7 +11,7 @@ header:
 intro: 
   - excerpt: 'I have quite a few hobbies and love spending time developing them.'
 feature_row:
-  - image_path: assets/images/keyboard.jpg
+  - image_path: /assets/images/keyboard.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in a song."
@@ -24,6 +24,7 @@ feature_row:
     excerpt: "I enjoy developing technical skills and working on software and hardware as time and patience permit."
 
 ---
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
