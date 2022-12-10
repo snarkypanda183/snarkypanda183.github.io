@@ -20,7 +20,7 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/niu.edu
+  - image_path: /assets/images/niu.jpg
     alt: "Image of Northern Illinois University"
     title: "Management Information Systems at Northern Illinois University"
     excerpt: 'In the College of Business at NIU, I had intensive training in core business areas as well as databases, ERP systems, project management, business technology, and more.'
