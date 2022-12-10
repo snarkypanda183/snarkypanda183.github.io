@@ -1,7 +1,7 @@
 ---
 title: "Weston's Education"
-permalink: /education/
 layout: splash
+permalink: /education/
 author_profile: true
 header:
   overlay_color: "#000"
@@ -11,7 +11,7 @@ header:
 intro: 
   - excerpt: 'Whether philosophy, linguistics, project management, or web development, my studies have been broad and prove useful everyday.'
 feature_row:
-  - image_path: /assets/images/isug.jpg
+  - image_path: /assets/images/isu.jpg
     alt: "Image of Illinois State University campus"
     title: "Philosophy and Linguistics at Illinois State"
     excerpt: 'In undergraduate at Illinois State University, I enjoyed studying under some outstanding professors.  The curriculum was broad, but most important to me today was learning to reason and write clearly and coherently.'
