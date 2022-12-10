@@ -1,9 +1,9 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Interests"
     url: /interests/
   - title: "Education"
     url: /education/
   - title: "Career"
     url: /career/
-  - title: "About"
-    url: /about/
