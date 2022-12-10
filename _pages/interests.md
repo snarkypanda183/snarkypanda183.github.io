@@ -2,7 +2,6 @@
 title: "Weston's Interests"
 layout: splash
 permalink: /interests/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,7 +13,7 @@ feature_row:
   - image_path: /assets/images/keyboard.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in     a song."
+    excerpt: "I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in  a song."
   - image_path: /assets/images/keyboard.jpg
     alt: "placeholder image 2"
     title "Writing"
