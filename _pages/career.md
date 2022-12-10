@@ -6,9 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner1.jpg
-  excerpt: "Weston's Education"
+  excerpt: "Weston's Professional Experience"
 intro: 
-  - excerpt: 'From linguistics and philosophy to databases and project methodology, I have studied a wide range of subject matter.'
+  - excerpt: 'From analysis in pharmacy benefits management to e-commerce development to insurance systems, I have an array of experiences in my career.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
