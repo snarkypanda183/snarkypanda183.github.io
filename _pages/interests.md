@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 2"
     title "Writing"
     excerpt: "Whether with a fountain pen and unique ink or a mechanical pencil and a sketchpad, I relax with writing and sketching."
-  - image_path: /assets/keyboard.jpg
+  - image_path: /assets/images/keyboard.jpg
     title: "Technology"
     excerpt: "I enjoy developing technical skills and working on software and hardware as time and patience permit."
 
