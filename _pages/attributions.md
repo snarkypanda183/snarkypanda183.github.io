@@ -1,6 +1,7 @@
 ---
 permalink: /attributions/
 title: "Attributions"
+author_profile: true
 ---
 
 Thank you to those who lend their creative work via licenses for non-commercial use.
