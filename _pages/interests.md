@@ -24,7 +24,6 @@ feature_row:
     excerpt: "I enjoy developing technical skills and working on software and hardware as time and patience permit."
 
 ---
-
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" %}
