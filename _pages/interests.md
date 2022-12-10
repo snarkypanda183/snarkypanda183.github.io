@@ -1,5 +1,5 @@
 ---
-title: "Interests"
+title: "Weston's Interests"
 permalink: /interests/
 layout: splash
 author_profile: true
