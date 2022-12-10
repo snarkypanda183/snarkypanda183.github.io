@@ -27,8 +27,7 @@ Thank you to those who lend their creative work via licenses for non-commercial 
 [banner2.jpg by John Wood](https://www.flickr.com/photos/126491579@N04/16317239167)
 
 
-building.jpg by Reto Fetz[
-](https://www.flickr.com/photos/swisscan/522261406)
+[building.jpg by Reto Fetz](https://www.flickr.com/photos/swisscan/522261406)
 
 [pharmacy.jpg by Amanda Kelso](https://www.flickr.com/photos/mandydale/236312660)
 
