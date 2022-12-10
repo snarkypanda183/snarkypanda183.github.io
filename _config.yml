@@ -24,7 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: snarkypanda183
 minimal_mistakes_skin: "air"
 search: false
-
+atom_feed:
+    hide: true
+    
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -84,8 +86,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/westonlove/"
-    - atom-feed:
-        hide: true
+
 
 defaults:
   # _posts
