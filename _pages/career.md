@@ -10,53 +10,36 @@ header:
 intro: 
   - excerpt: 'From analysis in pharmacy benefits management to e-commerce development to insurance systems, I have an array of experiences in my career.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/building.jpg
+    alt: "Image of office building"
+    title: "Business analysis in insurance"
+    excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the diversity in my career.'
+
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/programming.png
+    alt: "Image of development console"
+    title: "Web development and administration"
+    excerpt: 'At Cedar Electronics I helped drive the deployment two Shopify Plus e-commerce stores quickly and with great usability, integration, and    financial results.'
+    url: "https://www.escortradar.com"
+    btn_label: "Visit Escort Radar"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/pharmacy.jpg
+    alt: "Image of pharmacy sign"
+    title: "Analysis in healthcare"
+    excerpt: 'At Abbott Laboratories and CVS Health I enjoyed work in digital, mobile, e-commerce, databases, and a myriad of other systems.  On caremark.com my project work on guest refill is still visible today.'
+    url: "https://www.caremark.com"
+    btn_label: "Visit CVS/Caremark"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+
