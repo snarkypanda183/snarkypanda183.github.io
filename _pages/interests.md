@@ -25,7 +25,7 @@ feature_row:
     url: "https://www.tidal.com"
     btn_label: "Visit Tidal Music"
     btn_class: "btn--primary"
-  - image_path: /assets/images/keyboard.jpg
+    - image_path: /assets/images/keyboard.jpg
     alt: "Image of mechanical keyboard"
     title: "Technology"
     excerpt: 'I enjoy developing technical skills and working on software and hardware as time and patience permit.  Lately I have developed an interest in custom  mechanical keyboards.'
