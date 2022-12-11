@@ -11,19 +11,19 @@ header:
 intro:
   - excerpt: 'I have quite a few hobbies and love spending time developing them.'
 feature_row:
-  - image_path: /assets/images/se846.jpg
-    alt: "Image of Shure earphones"
-    title: "Music"
-    excerpt: 'I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in  a song.  For high quality stremaing I use Tidal and an MQA DAC.'
-    url: "https://www.tidal.com"
-    btn_label: "Visit Tidal Music"
-    btn_class: "btn--primary"
   - image_path: /assets/images/pen.jpg
     alt: "Image of fountain pen"
     title: "Writing"
     excerpt: 'Whether with a fountain pen and unique ink or a mechanical pencil and a sketchpad, I relax with writing and sketching.'
     url: "https://www.gouletpens.com"
     btn_label: "Visit Goulet Pens"
+    btn_class: "btn--primary"
+    - image_path: /assets/images/se846.jpg
+    alt: "Image of Shure earphones"
+    title: "Music"
+    excerpt: 'I enjoy listening to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in  a song.  For high quality stremaing I use Tidal and an MQA DAC.'
+    url: "https://www.tidal.com"
+    btn_label: "Visit Tidal Music"
     btn_class: "btn--primary"
   - image_path: /assets/images/keyboard.jpg
     alt: "Image of mechanical keyboard"
