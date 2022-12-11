@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner2.jpg
+  overlay_image: /assets/images/banner3.jpg
   excerpt: "Weston's Academic Background"
 intro: 
   - excerpt: 'Whether philosophy, linguistics, project management, or web development, my studies have been broad and prove useful everyday.'
@@ -30,7 +30,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/thinker.jpg
     alt: "Image of The Thinker sculpture"
-    title: "Lifelong Learning"
+    title: "Lifelong learning"
     excerpt: 'I enjoy learning after my college years as well.  I continue to read philosophy, literature, and keep up with technology and business trends.  See one of my recent, favorite "reads" by clicking below.'
     url: "https://www.audible.com/pd/Dracula-Audible-Edition-Audiobook/B0078PA1OA"
     btn_label: "Visit Audible"
