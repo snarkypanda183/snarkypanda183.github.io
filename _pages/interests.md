@@ -26,9 +26,9 @@ feature_row:
     btn_label: "Visit Goulet Pens"
     btn_class: "btn--primary"
   - image_path: /assets/images/keyboard.jpg
-    alt: "Technology module image"
+    alt: "Image of mechanical keyboard"
     title: "Technology"
-    excerpt: 'I enjoy developing technical skills and working on software and hardware as time and patience permit.  Lately I've developed an interest in custom  mechanical keyboards'
+    excerpt: 'I enjoy developing technical skills and working on software and hardware as time and patience permit.  Lately I have developed an interest in custom  mechanical keyboards'
     url: "https://www.mechanicalkeyboards.com"
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
