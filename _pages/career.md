@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner1.jpg
+  overlay_image: /assets/images/banner2.jpg
   excerpt: "Weston's Professional Experience"
 intro: 
   - excerpt: 'From analysis in pharmacy benefits management to e-commerce development to insurance systems, I have an array of experiences in my career.'
@@ -17,7 +17,7 @@ feature_row:
     excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the diversity in my career.'
 
 feature_row2:
-  - image_path: /assets/images/programming.png
+  - image_path: /assets/images/html.jpg
     alt: "Image of development console"
     title: "Web development and administration"
     excerpt: 'At Cedar Electronics I helped drive the deployment two Shopify Plus e-commerce stores quickly and with great usability, integration, and    financial results.'
