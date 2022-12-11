@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Weston Love"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.JPG"
   bio    : "Business analyst by day, inquisitive and thoughtful at all times."
   links:
     - label: "Vimeo"
