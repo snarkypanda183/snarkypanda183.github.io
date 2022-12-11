@@ -11,7 +11,7 @@ header:
 intro:
   - excerpt: 'I have quite a few hobbies and love spending time developing them.'
 feature_row:
-  - image_path: /assets/images/pen.jpg
+    - image_path: /assets/images/pen.jpg
     alt: "Image of fountain pen"
     title: "Writing"
     excerpt: 'Whether with a fountain pen and unique ink or a mechanical pencil and a sketchpad, I relax with writing and sketching.'
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/keyboard.jpg
     alt: "Image of mechanical keyboard"
     title: "Technology"
-    excerpt: 'I enjoy developing technical skills and working on software and hardware as time and patience permit.  Lately I have developed an interest in custom  mechanical keyboards'
+    excerpt: 'I enjoy developing technical skills and working on software and hardware as time and patience permit.  Lately I have developed an interest in custom  mechanical keyboards.'
     url: "https://www.mechanicalkeyboards.com"
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
