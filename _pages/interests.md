@@ -35,24 +35,23 @@ hobbies:
     url: "https://www.mechanicalkeyboards.com"
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
- 
-cat1:
+    
+catintro:
   - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
+
+cat1:
   - image_path: /assets/images/cat1.jpg
     alt: "Image of a cat"
     title: "Maggie"
     excerpt: 'I adopted Maggie in the Chicago area.  She has a very calm, sweet temperment.  She enjoys hiding in cardboard boxes.  See the Tree House Humane Society below, where she was originally brought in off the street.'
-    url: "https://www.gouletpens.com"
+    url: "https://www.hscipets.org"
     btn_label: "Visit Tree House"
     btn_class: "btn--primary"
     
 
 cat2:
-  - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
-feature_row:
-
   - image_path: /assets/images/cat2.jpg
-    alt: "Image of a cat"
+    alt: "Image of a cat secondary"
     title: "Teddy"
     excerpt: 'I picked up Teddy at the Humane Society of Central Illinois.  It is a great organization.  He is a bit more wild in nature and enjoys galloping around at the worst times of night.  Check out and support HSCI below.'
     url: "https://www.hscipets.org/"
@@ -63,9 +62,10 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="hobbies" %}
 
-{% include feature_row id="hobbies" type="center" %}
-=======
+{% include feature_row id="catintro" type="center" %}
+
 {% include feature_row id="cat1" type="left" %}
 
 {% include feature_row id="cat2" type="right" %}
