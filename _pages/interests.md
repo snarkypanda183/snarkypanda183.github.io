@@ -10,8 +10,8 @@ header:
   excerpt: "Weston's Interests"
 intro:
   - excerpt: 'I have quite a few hobbies and love spending time developing them.'
-feature_row:
-   
+
+hobbies:
   - image_path: /assets/images/pen.jpg
     alt: "Image of fountain pen and journal"
     title: "Writing"
@@ -38,8 +38,6 @@ feature_row:
  
 cat1:
   - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
-feature_row:
-   
   - image_path: /assets/images/cat1.jpg
     alt: "Image of a cat"
     title: "Maggie"
@@ -48,9 +46,11 @@ feature_row:
     btn_label: "Visit Tree House"
     btn_class: "btn--primary"
     
+
 cat2:
   - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
 feature_row:
+
   - image_path: /assets/images/cat2.jpg
     alt: "Image of a cat"
     title: "Teddy"
@@ -63,8 +63,11 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+
+{% include feature_row id="hobbies" type="center" %}
+=======
 {% include feature_row id="cat1" type="left" %}
 
-{% include feature_row id="cat2" type="left" %}
+{% include feature_row id="cat2" type="right" %}
 
-{% include feature_row %}
+
