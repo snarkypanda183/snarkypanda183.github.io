@@ -36,7 +36,7 @@ feature_row:
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
  
-cats:
+cat1:
   - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
 feature_row:
    
@@ -48,6 +48,9 @@ feature_row:
     btn_label: "Visit Tree House"
     btn_class: "btn--primary"
     
+cat2:
+  - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
+feature_row:
   - image_path: /assets/images/cat2.jpg
     alt: "Image of a cat"
     title: "Teddy"
@@ -60,6 +63,8 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="cats" type="center" %}
+{% include feature_row id="cat1" type="left" %}
+
+{% include feature_row id="cat2" type="left" %}
 
 {% include feature_row %}
