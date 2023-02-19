@@ -9,18 +9,18 @@ header:
   overlay_image: /assets/images/banner2.jpg
   excerpt: "Weston's Professional Experience"
 intro: 
-  - excerpt: 'From analysis in pharmacy benefits management to e-commerce development to insurance systems, I have an array of experiences in my career.'
+  - excerpt: 'I have an range of experiences in my career, from analysis in pharmacy benefits management to e-commerce development to working with insurance systems.'
 feature_row:
   - image_path: /assets/images/building.jpg
     alt: "Image of office building"
     title: "Business analysis in insurance"
-    excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the diversity in my career.'
+    excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the variety in my career.'
 
 feature_row2:
   - image_path: /assets/images/html.jpg
     alt: "Image of development console"
     title: "Web development and administration"
-    excerpt: 'At Cedar Electronics I helped drive the deployment two Shopify Plus e-commerce stores quickly and with great usability, integration, and    financial results.'
+    excerpt: 'At Cedar Electronics I helped drive the deployment two Shopify Plus e-commerce stores quickly and with great results in usability, system integration, and sales performance.'
     url: "https://www.escortradar.com"
     btn_label: "Visit Escort Radar"
     btn_class: "btn--primary"

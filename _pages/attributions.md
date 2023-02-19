@@ -34,11 +34,5 @@ Thank you to those who lend their creative work via licenses for non-commercial 
 
 [thinker.jpg by Joe deSousa on wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Thinker_by_Auguste_Rodin%2C_Grand_Palais%2C_Paris_13_July_2017.jpg)
 
-[se846.jpg by Tkommunikation on wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/2/22/Shure_SE846_Wireless.jpg)
-
-[pen.jpg by Yasuyuki HIRATA on wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/0/03/Sailor_Profit_25th_anniversary_model_with_saibi-togi_%28ultra_fine%29_nib_%283931834116%29.jpg)
-
-[keyboard.jpg by Patrick Breen on wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/9/9b/2018_Bay_Area_Mechanical_Keyboard_Meetup_%2831006251357%29.jpg))
-
 
 
