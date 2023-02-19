@@ -9,12 +9,12 @@ header:
   overlay_image: /assets/images/banner3.jpg
   excerpt: "Weston's Academic Background"
 intro: 
-  - excerpt: 'Whether philosophy, linguistics, project management, or web development, my studies have been broad and prove useful everyday.'
+  - excerpt: 'My studies in philosophy, linguistics, project management, business, and web development prove useful everyday.'
 feature_row:
   - image_path: /assets/images/isu.jpg
     alt: "Image of Illinois State University campus"
     title: "Philosophy and Linguistics at Illinois State"
-    excerpt: 'In undergraduate at Illinois State University, I enjoyed studying under some outstanding professors.  The curriculum was broad, but most important to me today was learning to reason and write clearly and coherently.'
+    excerpt: 'In undergraduate at Illinois State University, I enjoyed studying under outstanding professors.  The curriculum was broad, but most important to me today is having learned to reason and write clearly and concisely.'
     url: "https://philosophy.illinoisstate.edu"
     btn_label: "Visit Philosophy@ISU"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ feature_row3:
   - image_path: /assets/images/thinker.jpg
     alt: "Image of The Thinker sculpture"
     title: "Lifelong learning"
-    excerpt: 'I enjoy learning after my college years as well.  I continue to read philosophy, literature, and keep up with technology and business trends.  See one of my recent, favorite "reads" by clicking below.'
+    excerpt: 'I enjoy learning in my post-college years as well.  I continue to read philosophy and literature, and keep up with technology and business trends.  See one of my recent, favorite "reads" by clicking below.'
     url: "https://www.audible.com/pd/Dracula-Audible-Edition-Audiobook/B0078PA1OA"
     btn_label: "Visit Audible"
     btn_class: "btn--primary"
