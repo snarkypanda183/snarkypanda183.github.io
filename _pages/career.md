@@ -11,7 +11,7 @@ header:
 intro: 
   - excerpt: 'I have an range of experiences in my career, from analysis in pharmacy benefits management to e-commerce development to working with insurance systems.'
 feature_row:
-  - image_path: /assets/images/building.jpg
+  - image_path: /assets/images/phone.jpg
     alt: "Image of office building"
     title: "Business analysis in insurance"
     excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the variety in my career.'
