@@ -36,6 +36,7 @@ feature_row:
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
     
+---    
 cats:
   - excerpt: 'Early on I moved into my first apartment and wasn't allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
 feature_row:
