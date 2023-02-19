@@ -23,7 +23,7 @@ hobbies:
   - image_path: /assets/images/headphones.jpg
     alt: "Image of over-ear headphones"
     title: "Music"
-    excerpt: 'I listen to any and all music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in a song.  For high quality streaming I use Tidal and an MQA DAC.'
+    excerpt: 'I listen to music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in a song.'
     url: "https://www.tidal.com"
     btn_label: "Visit Tidal Music"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ hobbies:
   - image_path: /assets/images/keyboard.jpg
     alt: "Image of mechanical keyboard"
     title: "Technology"
-    excerpt: 'I enjoy developing technical skills, working with software and hardware as time and patience permit.  Lately I have developed an interest in custom mechanical keyboards. Pictured is the first I fully assembled myself using a Keychron Alice layout.'
+    excerpt: 'Lately I have developed an interest in custom mechanical keyboards. Pictured is the first I fully assembled myself.'
     url: "https://www.mechanicalkeyboards.com"
     btn_label: "See Mechanical Keyboards"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ cat1:
     alt: "Image of a cat"
     title: "Maggie"
     excerpt: 'I adopted Maggie in Chicago.  She has a very calm, sweet temperament.  She enjoys hiding in cardboard boxes.  See the Tree House Humane Society below, where she was originally brought in off the street.'
-    url: "https://www.hscipets.org"
+    url: "https://www.treehouseanimals.org"
     btn_label: "Visit Tree House"
     btn_class: "btn--primary"
     
@@ -53,7 +53,7 @@ cat2:
   - image_path: /assets/images/cat2.jpg
     alt: "Image of a cat - secondary"
     title: "Teddy"
-    excerpt: 'I picked Teddy yo at the Humane Society of Central Illinois.  It is a great organization.  He enjoys galloping around at the worst times of night.  Check out and support HSCI below.'
+    excerpt: 'I picked Teddy up at the Humane Society of Central Illinois.  It is a great organization.  He loves galloping around at the worst times of night.  Check out and support HSCI below.'
     url: "https://www.hscipets.org/"
     btn_label: "Visit HSCI"
     btn_class: "btn--primary"
