@@ -10,8 +10,8 @@ header:
   excerpt: "Weston's Interests"
 intro:
   - excerpt: 'I have quite a few hobbies and love spending time developing them.'
-feature_row:
-   
+
+hobbies:
   - image_path: /assets/images/pen.jpg
     alt: "Image of fountain pen and journal"
     title: "Writing"
@@ -60,6 +60,9 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="cats" type="center" %}
+{% include feature_row id="hobbies" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="cat1" type="center" %}
+
+{% include feature_row id="cat2" type="center" %}
+
