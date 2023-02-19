@@ -50,11 +50,8 @@ cat1:
     
 
 cat2:
-  - excerpt: 'Early on I moved into my first apartment and was not allowed a dog.  I adopted a cat, which was permitted, and quickly became a "cat person".'
-feature_row:
-
   - image_path: /assets/images/cat2.jpg
-    alt: "Image of a cat"
+    alt: "Image of a cat secondary"
     title: "Teddy"
     excerpt: 'I picked up Teddy at the Humane Society of Central Illinois.  It is a great organization.  He is a bit more wild in nature and enjoys galloping around at the worst times of night.  Check out and support HSCI below.'
     url: "https://www.hscipets.org/"
