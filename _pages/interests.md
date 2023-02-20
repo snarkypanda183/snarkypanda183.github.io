@@ -15,9 +15,9 @@ hobbies:
   - image_path: /assets/images/pen.jpg
     alt: "Image of fountain pen and journal"
     title: "Writing"
-    excerpt: 'I keep a journal, and like to use different pens and inks.  Generally I write with a medium-fine founatin pen.'
+    excerpt: 'I keep a journal and like to use different pens and inks.  Generally I write with a medium-fine founatin pen.'
     url: "https://www.gouletpens.com"
-    btn_label: "Visit Goulet Pens"
+    btn_label: "Browse Goulet Pens"
     btn_class: "btn--primary"
     
   - image_path: /assets/images/headphones.jpg
@@ -25,7 +25,7 @@ hobbies:
     title: "Music"
     excerpt: 'I listen to music with over-ear headphones, in-ear monitors, stereo equipment, and anything else that brings out the life in a song.'
     url: "https://www.tidal.com"
-    btn_label: "Visit Tidal Music"
+    btn_label: "Listen to Tidal Music"
     btn_class: "btn--primary"
    
   - image_path: /assets/images/keyboard.jpg
@@ -33,7 +33,7 @@ hobbies:
     title: "Technology"
     excerpt: 'Lately I have developed an interest in custom mechanical keyboards. Pictured is the first I fully assembled myself.'
     url: "https://www.mechanicalkeyboards.com"
-    btn_label: "See Mechanical Keyboards"
+    btn_label: "Explore Mechanical Keyboards"
     btn_class: "btn--primary"
     
 catintro:
