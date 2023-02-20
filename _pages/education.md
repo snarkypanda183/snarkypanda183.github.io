@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/isu.jpg
     alt: "Image of Illinois State University campus"
     title: "Philosophy and Linguistics at Illinois State"
-    excerpt: 'In undergraduate at Illinois State University, I enjoyed studying under outstanding professors.  The curriculum was broad, but most important to me today is having learned to reason and write clearly and concisely.'
+    excerpt: 'In undergraduate at Illinois State University, I studied under outstanding professors.  The curriculum was broad, but most important to me today is having learned to reason and write clearly and concisely.'
     url: "https://philosophy.illinoisstate.edu"
     btn_label: "Visit Philosophy@ISU"
     btn_class: "btn--primary"
