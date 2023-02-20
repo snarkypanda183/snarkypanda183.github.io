@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/phone.jpg
     alt: "Image of office building"
     title: "Business analysis in insurance"
-    excerpt: 'Today I work in the insurance industry, which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the variety in my career.'
+    excerpt: 'Today I work in the insurance industry which presents wide-ranging technology project work.  From online billing and payments to telephony and internal systems, I enjoy the variety in my career.'
 
 feature_row2:
   - image_path: /assets/images/html.jpg
@@ -28,7 +28,7 @@ feature_row3:
   - image_path: /assets/images/pharmacy.jpg
     alt: "Image of pharmacy sign"
     title: "Analysis in healthcare"
-    excerpt: 'At Abbott Laboratories and CVS Health I enjoyed work in digital, mobile, e-commerce, databases, and a myriad of other systems.  On caremark.com my project work on guest refill is still visible today.'
+    excerpt: 'At Abbott Laboratories and CVS Health I worked and grew in digital, mobile, e-commerce, databases, and other enterprise technologies.  On caremark.com my project work on guest refill is still visible today.'
     url: "https://www.caremark.com"
     btn_label: "Visit CVS/Caremark"
     btn_class: "btn--primary"
